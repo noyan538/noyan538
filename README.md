@@ -8,5 +8,6 @@
 
 <!---
 noyan538/noyan538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. go to dashboard modem 192.168.1.1
+
 ---> hi I'm in opera gx
